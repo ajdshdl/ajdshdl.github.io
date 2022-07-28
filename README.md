@@ -2,4 +2,8 @@
  
 Challenge
 
-Using Git & Creating mobile wedding invitation
+Git
+React
+Typescript
+
+Creating mobile wedding invitation
